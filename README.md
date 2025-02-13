@@ -1,4 +1,4 @@
-![Random Dog](https://dog.ceo/api/breeds/image/random)
+![Random Dog](https://placedog.net/500)
 
 # Micrograd
 
