@@ -1,3 +1,5 @@
+![Random Dog](https://dog.ceo/api/breeds/image/random)
+
 # Micrograd
 
 A minimalistic autograd engine implemented by following [Andrej Karpathy's Micrograd video](https://www.youtube.com/watch?v=VMj-3S1tku0&t=1s). This project builds an automatic differentiation system using computational graphs, supporting basic operations and backpropagation.
